@@ -28,4 +28,4 @@ We started as an **Audit & Development firm** for smart contracts in the beginni
 
 [twitter]: https://twitter.com/Techrate1
 [linkedin]: https://www.linkedin.com/in/zufartat/
-[medium]: ceo@techrate.org
+[medium]: mailto:ceo@techrate.org
