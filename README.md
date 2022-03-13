@@ -14,8 +14,8 @@ We started as an **Audit & Development firm** for smart contracts in the beginni
 - ⚡ Dashboards development and web3 integrations.
 
 ## Our statistics:
-- 🚀 More than 300 public Smart Contract audits at [techrate.org](techrate.org).
-- 🛸 More than 100 private Smart Contract audits.
+- 🚀 More than 2500 public Smart Contract audits at [techrate.org](techrate.org).
+- 🛸 More than 200 private Smart Contract audits.
 - 🎊 50 Staking and 30 Farming Smart Contracts developed.
 - 🧨 More than 50 Token and Custom Smart Contracts developed.
 
